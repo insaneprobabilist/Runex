@@ -1,3 +1,4 @@
 ﻿  Runex.cpp
-c:\users\patryk\source\repos\runex\runex\runex.cpp(209): warning C4101: "id": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\patryk\source\repos\runex\runex\runex.cpp(211): warning C4101: "id": lokalna zmienna, do której nie istnieje odwołanie
+c:\users\patryk\source\repos\runex\runex\runex.cpp(1268): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
   Runex.vcxproj -> C:\Users\Patryk\source\repos\Runex\Debug\Runex.exe

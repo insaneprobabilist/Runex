@@ -21,4 +21,5 @@ public:
 	Bieg(string idBiegu, string data, int dystans, string idBiegacza, string wynik, int pozycja);
 
 	void opisz();
+	void setPozycja(int s) { pozycja = s; };
 };
